@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Super Mario Bros 3",
+    "year": 1988,
+    "genre": "Plaform",
+    "stock": 0,
+    "image": "./img/super-mario-bros-3.jpg"
+  },
+  {
+    "name": "The Legend of Zelda",
+    "year": 1986,
+    "genre": "Adventure",
+    "stock": 10,
+    "image": "./img/the-legend-of-zelda.jpg"
+  },
+  {
+    "name": "Tetris",
+    "year": 1984,
+    "genre": "Puzzle",
+    "stock": 20,
+    "image": "./img/tetris.jpg"
+  }
+]
